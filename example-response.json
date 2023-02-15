@@ -1,0 +1,751 @@
+[
+  {
+    "CategoryTypeIdentity": "241e4d36-60e0-49f8-b27e-99416745d98d",
+    "CategoryTypeName": "Programmes of Study",
+    "CategoryEvents": [
+      {
+        "EventIdentity": "844369be-ce4f-58dd-8694-58b9e1c293fb",
+        "HostKey": "2223#SPLUSB944E9",
+        "Description": "Lecture/Tutorial",
+        "EndDateTime": "2023-02-13T18:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.SA301",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-13T17:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-20T09:51:49.504068+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA115[2] Digital Innovation Management & Enterprise",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Mehigan T",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA115[2]OC/L1/01",
+        "Identity": "d2e4bfd3-1d41-4010-81eb-2752cb78fe38"
+      },
+      {
+        "EventIdentity": "296df0ab-79fc-5585-6d15-17c7f8d6972d",
+        "HostKey": "2223#SPLUS4EB69B",
+        "Description": "Tutorial",
+        "EndDateTime": "2023-02-13T12:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.SA101",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-13T10:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-20T09:50:47.7326171+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA115[2] Digital Innovation Management & Enterprise",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Mehigan T",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA115[2]OC/L2/01",
+        "Identity": "f92ac4c6-5e2b-4062-90f1-87ffa4521770"
+      },
+      {
+        "EventIdentity": "261377aa-7417-ef22-27ef-c12ba4cb5ad3",
+        "HostKey": "2223#SPLUSB94320",
+        "Description": "Digital Innovation Management and Enterprise - practical",
+        "EndDateTime": "2023-02-16T10:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.L114, GLA.LG26, GLA.LG25, GLA.L128, GLA.L101",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-16T09:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-20T09:50:47.4982653+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA115[2] Digital Innovation Management & Enterprise",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Mehigan T",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA115[2]OC/P1/01",
+        "Identity": "66c2b0d6-8b24-456b-bc20-c665134f3838"
+      },
+      {
+        "EventIdentity": "0e95b830-9e7f-0e78-b1c2-2f7052f1f902",
+        "HostKey": "2223#SPLUSB9431D",
+        "Description": "Digital Innovation Management and Enterprise - practical",
+        "EndDateTime": "2023-02-16T11:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.LG26, GLA.LG25, GLA.L114, GLA.L128, GLA.L101",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-16T10:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-20T09:51:18.0667419+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA115[2] Digital Innovation Management & Enterprise",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Mehigan T",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA115[2]OC/P2/01",
+        "Identity": "00ddab57-5380-4a3a-abec-1065505494e8"
+      },
+      {
+        "EventIdentity": "d904828e-ecb0-233a-0b3d-5d8f5434fc2e",
+        "HostKey": "2223#SPLUSB9454F",
+        "Description": "Lecture",
+        "EndDateTime": "2023-02-14T11:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.QG13",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-14T09:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T16:55:20.4569796+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA117[2] Computing Programming II",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Brien D (CA)",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA117[2]OC/L1/01",
+        "Identity": "45b96796-b060-48da-8b30-55f52be74d0a"
+      },
+      {
+        "EventIdentity": "328e6058-e7cc-5b94-d61e-f18f89c85e96",
+        "HostKey": "2223#SPLUS4EB6B0",
+        "Description": "Lecture",
+        "EndDateTime": "2023-02-16T13:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.QG13",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-16T11:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:18:20.6203673+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA117[2] Computing Programming II",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Brien D (CA)",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA117[2]OC/L2/01",
+        "Identity": "ac512e3a-d9ee-476b-a8a8-35bee8722a51"
+      },
+      {
+        "EventIdentity": "75d774e0-cbf3-a0c4-8ed0-79f7bcf193d2",
+        "HostKey": "2223#SPLUS7A5A78",
+        "Description": "Computer Programming II - practical",
+        "EndDateTime": "2023-02-14T16:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.L128, GLA.L101, GLA.L125",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-14T14:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:19:44.3360133+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA117[2] Computing Programming II",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Brien D (CA)",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA117[2]OC/P1/01",
+        "Identity": "51a95848-c5d1-439b-a7fa-62435aa78f86"
+      },
+      {
+        "EventIdentity": "83d02564-a9be-0b8c-68cc-2e1c5a2aaf1a",
+        "HostKey": "2223#SPLUS4EB6B6",
+        "Description": "Computer Programming II - practical",
+        "EndDateTime": "2023-02-16T16:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.L128, GLA.L125, GLA.L101",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-16T14:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:18:29.7974633+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA117[2] Computing Programming II",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Brien D (CA)",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA117[2]OC/P2/01",
+        "Identity": "ea41a5cf-6ac8-4a5e-8142-4d11712f6bd1"
+      },
+      {
+        "EventIdentity": "2b38cb5e-f916-71f4-62d0-0c712348865e",
+        "HostKey": "2223#SPLUSB9450B",
+        "Description": "Lecture",
+        "EndDateTime": "2023-02-13T17:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.SA301",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-13T15:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T16:58:14.9415369+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA169[2] NETWORKS & INTERNET",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Togou, M",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA169[2]OC/L1/01",
+        "Identity": "9fb99a39-8cda-4ccf-a935-1087e9be1a68"
+      },
+      {
+        "EventIdentity": "f7dc6de7-f149-9f7d-1b92-5069a3fdccbb",
+        "HostKey": "2223#SPLUSB94434",
+        "Description": "Lecture",
+        "EndDateTime": "2023-02-13T13:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.HG20",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-13T12:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T16:59:29.8654014+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA170[2] Introduction to Operating Systems",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Humphrys M",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA170[2]OC/L1/01",
+        "Identity": "b40ea69a-ca73-4eb3-8193-95f9c35ce5b1"
+      },
+      {
+        "EventIdentity": "12e89f90-96f8-de39-0d12-21fce8b57fa8",
+        "HostKey": "2223#SPLUS25F3E5",
+        "Description": "Lecture",
+        "EndDateTime": "2023-02-14T12:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.HG23",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-14T11:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:15:04.4818125+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA170[2] Introduction to Operating Systems",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Humphrys M",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA170[2]OC/L2/01",
+        "Identity": "2e58332f-0541-46b5-b94a-e01f4cd93f30"
+      },
+      {
+        "EventIdentity": "7645b1ed-2704-fcac-bcd3-c389ad945112",
+        "HostKey": "2223#SPLUSB9454C",
+        "Description": "Practical",
+        "EndDateTime": "2023-02-15T11:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.L125, GLA.L101, GLA.L129",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-15T09:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T16:55:52.9980878+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "CA170[2] Introduction to Operating Systems",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Humphrys M",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "CA170[2]OC/P1/01",
+        "Identity": "8e36eb49-36ee-4c4e-b374-313f22f20bb2"
+      },
+      {
+        "EventIdentity": "ec1038cb-ded8-10ce-92fc-86ed558d8582",
+        "HostKey": "2223#SPLUS64E356",
+        "Description": "IT Mathematics 2",
+        "EndDateTime": "2023-02-13T10:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.SA101",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-13T09:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:23:53.3747541+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Singh G",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/L1/01",
+        "Identity": "cdb8f63e-bcc4-4545-9eba-463e374a7e19"
+      },
+      {
+        "EventIdentity": "52c578de-ebb9-02ae-f7c2-c254f7a08c0d",
+        "HostKey": "2223#SPLUS64E35C",
+        "Description": "IT Mathematics 2",
+        "EndDateTime": "2023-02-14T14:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.QG15",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-14T13:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2023-01-10T17:40:54.1161508+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Singh G",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/L2/01",
+        "Identity": "fd2a1293-5fad-44aa-b3fc-977c8e22494d"
+      },
+      {
+        "EventIdentity": "4d6b8fb2-7ec1-4065-33d0-86d73f45eccd",
+        "HostKey": "2223#SPLUS229A1C",
+        "Description": "IT Mathematics 2",
+        "EndDateTime": "2023-02-15T12:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.HG20",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-15T11:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2022-12-12T17:09:02.860125+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Singh G",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "19-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/L3/01",
+        "Identity": "16eb476b-8461-4de8-841b-567ff76786e9"
+      },
+      {
+        "EventIdentity": "531e80c1-6a40-6b61-7c25-4316286eaece",
+        "HostKey": "2223#SPLUS64E364",
+        "Description": "IT Mathematics 2 - Group A",
+        "EndDateTime": "2023-02-17T15:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.CG05",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-17T14:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2023-01-13T15:01:13.0983167+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Sullivan C",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "20-24, 26-31",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/T1/01",
+        "Identity": "4c6da3f8-823f-4604-94bd-74197d30288e"
+      },
+      {
+        "EventIdentity": "2d29deaa-6aec-2e7c-543c-20404171f285",
+        "HostKey": "2223#SPLUS64E368",
+        "Description": "IT Mathematics 2 - Group B",
+        "EndDateTime": "2023-02-17T11:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.XG15",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-17T10:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2023-01-13T15:01:26.6033247+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Pisani, L",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "20-24, 26-30",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/T2/01",
+        "Identity": "e984bf94-9fe0-42f4-8d66-7a4edf3b35cd"
+      },
+      {
+        "EventIdentity": "f9e25dce-f0ac-e7ac-3539-35e866a7347b",
+        "HostKey": "2223#SPLUS64E36C",
+        "Description": "IT Mathematics 2 - Group C",
+        "EndDateTime": "2023-02-17T12:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.XG15",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-17T11:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2023-01-13T15:01:50.1944477+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "Pisani, L",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "20-24, 26-30",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/T3/01",
+        "Identity": "679c352d-9075-4b4b-ba30-a78631cbef9c"
+      },
+      {
+        "EventIdentity": "a983e97f-6572-3479-ed78-27766dce3b05",
+        "HostKey": "2223#SPLUS9D72DC",
+        "Description": "IT Mathematics 2 - Group D",
+        "EndDateTime": "2023-02-17T13:00:00+00:00",
+        "EventType": "On Campus",
+        "IsPublished": true,
+        "Location": "GLA.XG15",
+        "Owner": "b8cf1f5a-9687-4440-86b8-13da2c69fa62",
+        "StartDateTime": "2023-02-17T12:00:00+00:00",
+        "IsDeleted": false,
+        "LastModified": "2023-01-13T15:02:12.683033+00:00",
+        "ExtraProperties": [
+          {
+            "Name": "Module Name",
+            "DisplayName": "Module Name",
+            "Value": "MS135[2] IT Mathematics 2",
+            "Rank": 1
+          },
+          {
+            "Name": "Staff Member",
+            "DisplayName": "Staff Member",
+            "Value": "O'Sullivan C",
+            "Rank": 2
+          },
+          {
+            "Name": "Activity.TeachingWeekPattern_PatternAsArray",
+            "DisplayName": "Weeks",
+            "Value": "20-24, 26-30",
+            "Rank": 3
+          }
+        ],
+        "UserManuallyAddedEvent": false,
+        "StatusIdentity": "b48c85d4-19aa-4b19-87a6-63a5c6d2e630",
+        "Status": null,
+        "StatusBackgroundColor": null,
+        "Name": "MS135[2]OC/T4/01",
+        "Identity": "53c553d8-bcab-4a47-aa24-5b94db8c3727"
+      }
+    ],
+    "Name": "COMSCI1",
+    "Identity": "721c8cf9-18dc-3e8e-f11e-83900b84896d"
+  }
+]

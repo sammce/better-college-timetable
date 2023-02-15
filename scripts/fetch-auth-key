@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# This script extracts the basic auth key from opentimetable's main
+# js file and prints it to stdout.
+#
+# This script sucks, I suck, but I'm not really a shell guy. Sorry.
+
+timetable_url=https://opentimetable.dcu.ie
+
+main_file=$(wget -qO - $timetable_url | grep -Eo 'main.([A-z0-9]+).bundle.js')
+main_url=$timetable_url/$main_file
+auth_phrase=$(wget -qO - $main_url | grep -Eo 'apiAuthentication:"basic ([^"]+)')
+auth_key=$(echo $auth_phrase | grep -Eo '(?:\s)(.+)$')
+
+echo $auth_key
